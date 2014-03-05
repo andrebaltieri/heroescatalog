@@ -1,0 +1,5 @@
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\HeroesCatalog\HeroesCatalog\bin\HeroesCatalog.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\HeroesCatalog\HeroesCatalog\bin\HeroesCatalog.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\HeroesCatalog\HeroesCatalog\obj\Debug\HeroesCatalog.csprojResolveAssemblyReference.cache
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\HeroesCatalog\HeroesCatalog\obj\Debug\HeroesCatalog.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\HeroesCatalog\HeroesCatalog\obj\Debug\HeroesCatalog.pdb
